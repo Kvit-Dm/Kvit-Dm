@@ -58,8 +58,5 @@
 </ul>
 </p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
- <img alt="my stats" align="left" style="height: 200px"  src="https://github-readme-stats.vercel.app/api?username=Kvit-Dm&show_icons=true&theme=transparent" />
- <img alt="top langs" align="left" style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvit-Dm&theme=transparent&layout=compact" />
-</div> 
-
+ <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kvit-Dm&show_icons=true&theme=transparent" />
+ <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvit-Dm&theme=transparent&layout=compact" />
