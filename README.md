@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 ![Next.js](https://img.shields.io/badge/Next.js-%2335495e.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -20,7 +20,6 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=%23E34F26)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=white)
 
 </div>
 
@@ -36,8 +35,6 @@
      <img src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=f05656" style="vertical-align: middle;" alt="Codewars Badge"/>
   </a>
  </li>
- 
-
 </ul>
 </p>
 
