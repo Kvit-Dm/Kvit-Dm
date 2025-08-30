@@ -23,19 +23,16 @@
 
 </div>
 
+
 <img width="574" height="434" alt="alt" src="https://github.com/user-attachments/assets/60ae1127-5e65-435b-90ec-de431d9baf01" align="left" width="150" style="margin-right: 20px;" />
 <p>
 <h2> Hey! Nice to see you.👋 </h2>
-<ul>
+
  <li>🔭 I’m currently working on something cool :wink:</li>
  <li>📝 Check out my <a href="https://drive.google.com/file/d/1vwG84LjVnYXsycYQk9hXJlex9tuuQDcR/view">resume</a>.</li>
- <li>🎉 Fun Fact : Bananas are radioactive。</li>
-  <li >
-  <a href="https://www.codewars.com/users/Anti-RakPro">
-     <img src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=f05656" style="vertical-align: middle;" alt="Codewars Badge"/>
-  </a>
- </li>
-</ul>
+ <li> My <a href="https://www.linkedin.com/in/kvitdm/">LinkedIn</a> </li>
+ <li> My <a href="https://www.codewars.com/users/Anti-RakPro">CodeWars</a> </li>
+ <li>🎉 Fun Fact : Bananas are <a href="https://www.sciencefocus.com/science/how-many-bananas-would-i-need-to-eat-to-become-radioactive">radioactive</a> </li>
 </p>
 
  <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kvit-Dm&show_icons=true&theme=transparent" />
